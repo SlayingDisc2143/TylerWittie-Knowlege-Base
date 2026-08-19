@@ -1,0 +1,1 @@
+	My name is Tyler Wittie, and I am a student at Texas Tech University. I will be coding and discovering new things my last semester at Tech that will assist me in my future workplace.

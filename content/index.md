@@ -1,6 +1,9 @@
 ---
-title: Template for Knowledge Base Docs Websites
+title: Tyler Wittie's Knowledge Base Website
 ---
+My knowledgebase topic will be about my vested interest in Computers and more specifically Computer video games.
+
+
 ## The index page
 
 This is the index page (`content/index.md`) of your knowledge base docs. It serves as the home page for your website.
