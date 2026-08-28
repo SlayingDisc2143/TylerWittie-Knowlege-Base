@@ -4,11 +4,11 @@ title: Tyler Wittie's Knowledge Base Website
 My knowledgebase topic will be about my vested interest in Computers and more specifically Computer video games.
 
 ## Main Categories
--[[category-01/index|Category 01]]
--[[category-02/index|Category 02]]
--[[category-03/index|Category 03]]
--[[category-04/index|Category 04]]
--[[category-05/index|Category 05]]
+-[[content/category-01 1/index|Category 01]]
+-[[content/category-02/index|Category 02]]
+-[[content/category-03/index|Category 03]]
+-[[content/category-04/index|Category 04]]
+-[[content/category-05/index|Category 05]]
 ## The index page
 
 This is the index page (`content/index.md`) of your knowledge base docs. It serves as the home page for your website.
