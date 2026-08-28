@@ -1,7 +1,6 @@
 ---
 title: Category 03
 ---
-**---**  
-**Software
+Software
 ---
 Companion software to things like Nvidias driver updater
