@@ -1,14 +1,14 @@
 ---
 title: Tyler Wittie's Knowledge Base Website
 ---
-My knowledgebase topic will be about my vested interest in Computers and more specifically Computer video games.
+My knowledgebase topic will be about my vested interest in Computers and more specifically Computer video games and the necessary components of gaming.
 
 ## Main Categories
--[[content/category-01/index|Category 01]]
--[[content/category-02/index|Category 02]]
--[[content/category-03/index|Category 03]]
--[[content/category-04/index|Category 04]]
--[[content/category-05/index|Category 05]]
+-[[content/category-01/index|Hardware]]
+-[[content/category-02/index|Game Launchers]]
+-[[content/category-03/index|Software]]
+-[[content/category-04/index|Peripheral devices]]
+-[[content/category-05/index|Playing games with friends]]
 ## The index page
 
 This is the index page (`content/index.md`) of your knowledge base docs. It serves as the home page for your website.
