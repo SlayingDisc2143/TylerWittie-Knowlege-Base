@@ -4,7 +4,7 @@ title: Tyler Wittie's Knowledge Base Website
 My knowledgebase topic will be about my vested interest in Computers and more specifically Computer video games.
 
 ## Main Categories
--[[content/category-01 1/index|Category 01]]
+-[[content/category-01/index|Category 01]]
 -[[content/category-02/index|Category 02]]
 -[[content/category-03/index|Category 03]]
 -[[content/category-04/index|Category 04]]
