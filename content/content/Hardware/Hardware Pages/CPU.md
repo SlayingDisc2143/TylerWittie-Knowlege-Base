@@ -7,4 +7,4 @@ The CPU, or Central Processing Unit, is responsible for processing instructions 
 
 ![[Pasted image 20260912130916.png]]
 
-As you can see there are LGA and PGA types of CPUs that fit into different motherboard sockets depending on the model type. You can read more about motherboards in the [[content/Hardware/Motherboard|motherboard]] section. The CPU is also required to be cooled while running, as it heats up significantly while electricity pulses through each transistor within the contents of the CPU.
+As you can see there are LGA and PGA types of CPUs that fit into different motherboard sockets depending on the model type. You can read more about motherboards in the [[Motherboard|motherboard]] section. The CPU is also required to be cooled while running, as it heats up significantly while electricity pulses through each transistor within the contents of the CPU.

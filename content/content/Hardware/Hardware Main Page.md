@@ -1,5 +1,5 @@
 ---
-title: Hardware
+title: Hardware Main Page
 ---
 ## Hardware
 
@@ -9,8 +9,12 @@ This includes components such as the GPU, CPU, RAM, storage, motherboard, and ot
 ---
 There are many different types of hardware that are required for an individual to run games and complicated computing tasks. Among the parts listed below there are very important things to consider when picking the parts for a PC. 
 
-
-
+- [[CPU]] 
+- [[GPU]] 
+- [[Motherboard]]
+- [[Power Supply]] 
+- [[RAM]] 
+- [[Storage]]
 
 #### Case 
 --- 
