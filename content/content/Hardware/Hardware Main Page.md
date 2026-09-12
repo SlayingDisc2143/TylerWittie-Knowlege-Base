@@ -18,10 +18,11 @@ There are many different types of hardware that are required for an individual t
 
 ## Other Components
 ---
-#### Case 
+### Case 
 --- 
 The computer case houses and protects all of the components. A case needs to support the size of the motherboard and have enough room for the graphics card, power supply, storage, and cooling equipment. Good airflow is also important when choosing a case.
-
+#### Case Fans
+Case fans are specifically for the cooling of the internals of the case. 
 
 
 ## Related Categories
