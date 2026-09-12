@@ -4,7 +4,7 @@ title: Tyler Wittie's Knowledge Base Website
 My knowledgebase topic will be about my vested interest in Computers and more specifically Computer video games and the necessary components of gaming.
 
 ## Main Categories
--[[Hardware|Hardware]]
+-[[Hardware Main Page|Hardware]]
 -[[content/category-02/index|Game Launchers]]
 -[[content/category-03/index|Software]]
 -[[content/category-04/index|Peripheral devices]]
