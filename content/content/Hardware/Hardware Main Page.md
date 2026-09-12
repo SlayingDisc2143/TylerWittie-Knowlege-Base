@@ -5,6 +5,8 @@ title: Hardware Main Page
 
 This includes components such as the GPU, CPU, RAM, storage, motherboard, and other peripheral devices that are required or wanted to create an enjoyable computing and gaming experience. Each component serves a different purpose and can affect the overall performance of the computer.
 
+> “Computers are incredibly fast, accurate, and stupid. Human beings are incredibly slow, inaccurate, and brilliant. Together they are powerful beyond imagination.” 
+> - Albert Einstein
 ### Necessary Hardware 
 ---
 There are many different types of hardware that are required for an individual to run games and complicated computing tasks. Among the parts listed below there are very important things to consider when picking the parts for a PC. 
