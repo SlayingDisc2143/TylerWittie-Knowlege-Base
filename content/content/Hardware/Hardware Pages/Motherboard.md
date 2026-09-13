@@ -28,4 +28,4 @@ Pins are located on the outermost parts of the motherboard that connect to the [
 ### Other Components 
 ---
 #### CMOS Battery
-The CMOS Battery is needed to power the board enough to where its internal clock can still function while powered down. This keeps things like firmware saved to the users liking without 
+The CMOS Battery is needed to power the board enough to where its internal clock can still function while powered down. This keeps things like firmware saved to the users liking without resetting it upon booting the computer. 
