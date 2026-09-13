@@ -3,7 +3,7 @@ title: RAM
 ---
 # RAM 
 --- 
-RAM, or Random Access Memory, temporarily stores information that the computer is actively using. Having enough RAM allows the computer to run games and multiple programs without slowing down. The amount, speed, and type of RAM should also be compatible with the motherboard and CPU. 
+RAM, or Random Access Memory, temporarily stores information that the computer is actively using. Having enough RAM allows the computer to run games and multiple programs without slowing down. The amount, speed, and type of RAM should also be compatible with the [[motherboard]] and [[CPU]]. The RAM modules are put in special slots that are different depending on the device. RAM is important for loading graphics and running multiple processes while the computer is running and is essential to the proper function of a PC. 
 Bellow you can see information from Micron's Crucial regarding different RAM types and their core differences.  
 ## SRAM vs DRAM vs ECC
 

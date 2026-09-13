@@ -7,3 +7,4 @@ The power supply unit, or PSU, provides electricity to all of the computer's com
 
 ## Power Supply Naming
 ---
+Power supplys have a rating system that 
