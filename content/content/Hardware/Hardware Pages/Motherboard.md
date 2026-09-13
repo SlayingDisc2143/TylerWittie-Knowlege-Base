@@ -24,7 +24,7 @@ Ports are located on the outer and back parts of the board that allow for periph
 - Audio out jacks
 ### Pins
 ---
-Pins are located on the outermost parts of the motherboard that connect to the [[Power Supply|power supply]] and other devices like fans, case monitors for viewing task management software. 
+Pins are located on the outermost parts of the motherboard that connect to the [[Power Supply|power supply]] and other devices like fans, case monitors for viewing task management software, and other components that the board can on off its outputted wattage. 
 ### Other Components 
 ---
 #### CMOS Battery
