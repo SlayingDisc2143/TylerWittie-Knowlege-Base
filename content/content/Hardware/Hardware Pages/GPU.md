@@ -4,6 +4,8 @@ title: GPU
 # GPU 
 --- 
 The GPU, or Graphics Processing Unit, is responsible for processing and displaying graphics. It is especially important for gaming because it renders the images and effects displayed on the monitor. Important things to consider when choosing a GPU include performance, VRAM amount, power consumption, and the resolution you want to play at. The resolution is limited by the monitor you have and its capability to display the resolution the GPU was specified for. If you have a monitor that can only run 1080p and a GPU that renders on a 4K display, you will only see a 1080p render. It is also required for playing video games due to the demanding 3D rendering that is involved with many popular games. 
+
+![[RTX_5090.png|400]]
 ## GPU Types and Naming Structure
 ---
 GPUs have a naming system that is hard to understand but classifies them well once you have rudimentary understanding. There are many types of GPUs, but I will focus on the two most widely used. NVIDIA and AMD are regarded as the most popular companies that produce GPUs that are in most machines today. 

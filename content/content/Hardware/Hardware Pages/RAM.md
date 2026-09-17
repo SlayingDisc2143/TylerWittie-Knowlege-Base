@@ -5,6 +5,8 @@ title: RAM
 --- 
 RAM, or Random Access Memory, temporarily stores information that the computer is actively using. Having enough RAM allows the computer to run games and multiple programs without slowing down. The amount, speed, and type of RAM should also be compatible with the [[motherboard]] and [[CPU]]. The RAM modules are put in special slots that are different depending on the device. RAM is important for loading graphics and running multiple processes while the computer is running and is essential to the proper function of a PC. 
 Bellow you can see information from Micron's Crucial regarding different RAM types and their core differences.  
+
+
 ## SRAM vs DRAM vs ECC
 
 ### What is SRAM?
@@ -18,6 +20,9 @@ Each successive generation of DDR memory is faster and uses less energy than t
 Today, most computers can get by using DDR3, while most high-end gaming and data-intensive creative content computers now use DDR4. The latest generation, DDR5, was released in 2021 and offers next-level performance for serious gamers and professional creatives. It important to determine what generation of memory your computer supports before buying new RAM. DDR5 memory, for example, will not fit on a motherboard built to support DDR4. Check with your motherboard manufacturer to ensure you have the right memory. Or, easier yet, use the Crucial System Scanner or System Selector to find guaranteed compatible memory for your computer.
 
 If you want to upgrade your computer's memory or build your own computer, your new memory must be compatible with your [[content/Hardware/Hardware Pages/Motherboard|motherboard]].
+
+More reading information can be obtained in this PDF document.  
+![[WhatEveryProgrammerShouldKnowAboutMemory.pdf]]
 
 ##### Reference
 Crucial. (n.d.). _Different types of memory explained_. Crucial. [Link to Site](https://www.crucial.com/articles/about-memory/different-types-of-memory-explained?srsltid=AfmBOorBaVXOv-Ctl38PEbOS0pX7MkHi8x4osN-xKEjDdE6th4EtFKaz)
