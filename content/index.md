@@ -5,10 +5,10 @@ My knowledgebase topic will be about my vested interest in Computers and more sp
 
 ## Main Categories
 -[[Hardware Main Page|Hardware]]
--[[content/category-02/index|Game Launchers]]
--[[content/category-03/index|Software]]
--[[content/category-04/index|Peripheral devices]]
--[[content/category-05/index|Playing games with friends]]
+-[[Steam|Game Launchers]]
+-[[Software|Software]]
+-[[Peripheral devices|Peripheral devices]]
+-[[Playing games with friends|Playing games with friends]]
 
 ### About Page
 ---

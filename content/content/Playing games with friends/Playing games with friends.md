@@ -1,5 +1,5 @@
 ---
-title: Category 05
+title: Playing games with friends
 ---
 Playing games with friends
 ---
