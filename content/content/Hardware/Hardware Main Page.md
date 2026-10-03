@@ -29,4 +29,4 @@ Case fans are specifically for the cooling of the internals of the case.
 
 ## Related Categories
 ### Peripherals
-Hardware also relates to peripheral devices as it is hardware that is used to play the video game you wish. [[Peripheral devices|Peripheral Devices]]
+Hardware also relates to peripheral devices as it is hardware that is used to play the video game you wish. [[Peripheral devices main pages|Peripheral Devices]]
