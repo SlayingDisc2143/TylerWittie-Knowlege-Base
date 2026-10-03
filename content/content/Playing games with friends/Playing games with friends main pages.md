@@ -1,5 +1,6 @@
 ---
 title: Playing games with friends
+date: 10/3/2026
 ---
 # Playing Games with Friends
 ---

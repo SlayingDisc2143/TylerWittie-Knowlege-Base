@@ -1,5 +1,6 @@
 ---
 title: References
+date: 10/3/2026
 ---
 # References
 ---
@@ -75,3 +76,7 @@ Used on: [[PlayStation Plus]]
 Sony Interactive Entertainment. (n.d.). *PlayStation Plus games*. PlayStation.  
 https://www.playstation.com/en-us/ps-plus/games/  
 Used on: [[PlayStation Plus]]
+
+
+
+You can get back to the home page [[content/index|index]]

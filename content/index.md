@@ -1,8 +1,10 @@
 ---
 title: Tyler Wittie's Knowledge Base Website
+date: 10/3/2026
 ---
 My knowledgebase topic will be about my vested interest in Computers and more specifically Computer video games and the necessary components of gaming.
 
+---
 ## Main Categories
 -[[Hardware Main Page|Hardware]]
 -[[Steam|Game Launchers]]
@@ -10,10 +12,11 @@ My knowledgebase topic will be about my vested interest in Computers and more sp
 -[[Peripheral devices main pages|Peripheral devices]]
 -[[Playing games with friends main pages|Playing games with friends]]
 
+---
 ### About Page
 ---
 You can see my about page [[About|here]].
 
-Reference Page
+### Reference Page
 ---
 You can see my Reference Page page [[References|here]].

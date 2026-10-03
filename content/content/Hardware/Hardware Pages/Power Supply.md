@@ -1,5 +1,6 @@
 ---
 title: Power Supply
+date: 10/3/2026
 ---
 # Power Supply 
 ---

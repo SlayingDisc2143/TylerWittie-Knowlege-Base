@@ -1,5 +1,6 @@
 ---
 title: Hardware Main Page
+date: 10/3/2026
 ---
 ## Hardware
 

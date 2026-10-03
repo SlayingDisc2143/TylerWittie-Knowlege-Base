@@ -1,5 +1,6 @@
 ---
-title: Category 02
+title: EA Game Launcher
+date: 10/3/2026
 ---
 # EA Game Launcher
 

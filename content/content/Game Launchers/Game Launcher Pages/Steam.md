@@ -1,5 +1,6 @@
 ---
 title: Category 02
+date: 10/3/2026
 ---
 # Steam
 

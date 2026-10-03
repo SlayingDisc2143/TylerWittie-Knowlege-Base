@@ -1,5 +1,6 @@
 ---
-title: Category 02
+title: Epic Games
+date: 10/3/2026
 ---
 # Epic Games
 
