@@ -36,3 +36,42 @@ Meta. (n.d.). *Meta Quest*. Meta.
 https://www.meta.com/quest/  
 Used on: [[Virtual Reality]]
 
+Valve Corporation. (n.d.). *Steam, the ultimate online game platform*. Steam.  
+https://store.steampowered.com/about/  
+Used on: [[Steam]], [[Game Launchers]]
+
+Valve Corporation. (n.d.). *Steam Workshop*. Steam Community.  
+https://steamcommunity.com/workshop/  
+Used on: [[Steam]], [[Game Mods]]
+
+Epic Games. (n.d.). *Epic Games Store*. Epic Games.  
+https://store.epicgames.com/  
+Used on: [[Epic Games]], [[Game Launchers]]
+
+Epic Games. (n.d.). *Windows games*. Epic Games Store.  
+https://store.epicgames.com/c/windows-games  
+Used on: [[Epic Games]]
+
+Electronic Arts. (n.d.). *The EA app*. Electronic Arts.  
+https://www.ea.com/ea-app  
+Used on: [[EA Game Launcher]], [[Game Launchers]]
+
+Electronic Arts. (n.d.). *How to use the EA app*. EA Help.  
+https://help.ea.com/en/articles/platforms/how-to-use-ea-app/  
+Used on: [[EA Game Launcher]]
+
+Electronic Arts. (2022, October 6). *The all new EA app for Windows*. Electronic Arts.  
+https://www.ea.com/news/ea-app  
+Used on: [[EA Game Launcher]]
+
+Microsoft. (n.d.). *Xbox PC app*. Xbox.  
+https://www.xbox.com/en-us/apps/xbox-app-on-pc  
+Used on: [[Xbox App]]
+
+Sony Interactive Entertainment. (n.d.). *PlayStation Plus*. PlayStation.  
+https://www.playstation.com/en-us/ps-plus/  
+Used on: [[PlayStation Plus]]
+
+Sony Interactive Entertainment. (n.d.). *PlayStation Plus games*. PlayStation.  
+https://www.playstation.com/en-us/ps-plus/games/  
+Used on: [[PlayStation Plus]]
