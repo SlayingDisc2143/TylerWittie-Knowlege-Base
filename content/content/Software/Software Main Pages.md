@@ -21,8 +21,6 @@ Software is a collection of programs and instructions that allow a computer to p
 
 ### Software and PC Gaming
 
-Software plays an important role in determining how games interact with a computer. The [[Discord|operating system]] provides the environment where applications and games can run, while [[Device Drivers|device drivers]] allow games to properly communicate with the computer's hardware.
-
-Players also commonly interact with [[Game Launchers]] to install and manage their games. Additional software such as [[Game Mods|game mods]] can change the experience of supported games, while [[Anti-Cheat Software|anti-cheat software]] is commonly used in competitive multiplayer games to help maintain fair gameplay.
+Software plays an important role in determining how games interact with a computer. The [[Discord|operating system]] provides the environment where applications and games can run, while [[Device Drivers|device drivers]] allow games to properly communicate with the computer's hardware. Players also commonly interact with [[Game Launchers]] to install and manage their games. Additional software such as [[Game Mods|game mods]] can change the experience of supported games, while [[Anti-Cheat Software|anti-cheat software]] is commonly used in competitive multiplayer games to help maintain fair gameplay.
 
 Together, these different types of software allow the physical components of a computer to function as a complete gaming system.
