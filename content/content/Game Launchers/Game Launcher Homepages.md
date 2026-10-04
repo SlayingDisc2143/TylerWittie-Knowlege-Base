@@ -10,9 +10,16 @@ date: 10/3/2026
 ---
 ## Game Launcher Pages
 
-- [[Steam]]
-- [[Epic Games]]
-- [[EA Game Launcher|EA App]]
-- [[Xbox App]]
-- [[PlayStation Plus]]
+There are several different game launchers available for PC gaming. These applications allow players to purchase, download, install, update, and launch games while also providing features such as friends lists, cloud saves, achievements, and multiplayer services.
+
+- [[Steam]] – Valve's digital game distribution platform.
+
+- [[Epic Games]] – Provides access to the Epic Games Store and its library of PC games.
+
+- [[EA Game Launcher|EA App]] – Electronic Arts' application for downloading and playing EA games.
+
+- [[Xbox App]] – Microsoft's PC gaming application and access point for PC Game Pass.
+
+- [[PlayStation Plus]] – Sony's subscription service that provides access to supported games and cloud gaming.
+
 ---

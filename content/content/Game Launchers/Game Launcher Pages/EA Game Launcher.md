@@ -16,7 +16,7 @@ The EA app can also interact with other gaming platforms. Electronic Arts states
 ---
 ## Playing With Friends
 
-The EA app includes social features designed to help players connect with friends. EA allows users to connect their EA Account with other gaming platforms and import friends so that they can see what friends are playing. ([[References]]) These features connect the EA app with [[Playing games with friends main page|playing games with friends]]. Depending on the individual game, EA games may support [[Multiplayer Games|multiplayer]] or [[Cross-Platform Play]]. The controls available depend on the game. PC players may use a [[Keyboard]] and [[Mouse]], a [[Controller]], or other supported [[Peripheral devices]].
+The EA app includes social features designed to help players connect with friends. EA allows users to connect their EA Account with other gaming platforms and import friends so that they can see what friends are playing. ([[References]]) These features connect the EA app with [[Playing games with friends main page|playing games with friends]]. Depending on the individual game, EA games may support [[Multiplayer Games|multiplayer]] or [[Cross-Platform Play]]. The controls available depend on the game. PC players may use a [[Keyboard]] and [[Mouse]], a [[Controller]], or other supported [[Peripheral devices main pages|peripheral devices]].
 
 ---
 ## Origin and the EA App

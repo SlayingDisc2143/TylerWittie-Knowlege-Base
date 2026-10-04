@@ -27,16 +27,6 @@ Gaming keyboards are designed with features intended specifically for video game
 **Mechanical keyboards** use individual mechanical switches underneath their keys rather than the membrane systems found in many traditional keyboards. Different mechanical switches can change how much force is required to press a key and how the key feels or sounds when pressed. Mechanical keyboards are popular among PC gamers because players can choose switches based on their preferred feel. Some gaming keyboards also allow switches or keycaps to be replaced, giving the user additional customization options.  The keyboard itself connects to the computer through USB or, in some models, a wireless connection. Like other [[Peripheral devices main pages|Peripheral devices]], the keyboard relies on the computer's [[Hardware Main Page|hardware]] and [[Software Main Pages|Software]] to process its inputs.
 
 ---
-## Keyboard and Mouse Gaming
-
-A [[Keyboard]] and [[Mouse]] are commonly used together when playing PC games. The keyboard typically handles movement and other actions while the mouse controls aiming, camera movement, and menu navigation. This combination is especially common in first-person shooters, strategy games, and other games that benefit from precise mouse movement and access to many keyboard commands. However, some games may be more comfortable with a [[Controller]], so PC players can often choose between different [[Peripheral devices main pages|peripheral devices]] depending on the game. Players can also change their key binds through a game's settings. This allows frequently used actions to be moved to keys that are easier for the individual player to reach.
-
----
 ## Keyboards and Playing With Friends
 
 Keyboards can also be important when [[Playing games with friends main pages|Playing games with friends]]. In addition to controlling a game, a keyboard allows players to communicate through text chat. This can be useful when playing online multiplayer games where players do not want to use Voice Chat. Some games also support local multiplayer using different input devices. For example, one player may use a keyboard while another uses a [[Controller]]. Whether this is possible depends on the local multiplayer support provided by the individual game. Online games launched through services such as [[Steam]] and [[Epic Games]] may also use keyboard shortcuts for features such as opening overlays, accessing friends lists, or communicating with other players.
-
----
-## Choosing a Keyboard
-
-Players should consider the types of games they play when choosing a keyboard. Keyboard size, switch type, wired or wireless connectivity, and additional programmable keys can all affect how the keyboard feels and functions. Ultimately, a keyboard does not need to be marketed specifically for gaming to play video games. The most important requirement is that it provides the inputs required by the games and [[ |Software]] the player intends to use.

@@ -2,7 +2,7 @@
 title: Peripheral devices
 date: 10/3/2026
 ---
-## Peripheral Devices
+# Peripheral Devices
 
 Peripheral devices are external pieces of hardware that can enhance the gaming experience by providing additional ways to interact with games. While traditional devices such as a [[Keyboard]] and [[Mouse]] are commonly used for PC gaming, specialized peripherals can provide a more immersive or realistic experience.
 
@@ -26,8 +26,6 @@ Specialized peripherals can make games feel more realistic by allowing the playe
 
 ---
 ### Choosing Peripheral Devices
-Not every game requires specialized peripherals. A [[Keyboard]] and [[Mouse]] are sufficient for most PC games, while a [[Controller]] may be more comfortable for games originally designed around consoles. More specialized devices such as [[Flight Stick|flight sticks]] and [[Virtual Reality|VR headsets]] are generally designed for particular genres or experiences.
-
-These devices are optional additions to a gaming computer, but they can significantly change how a player interacts with a game and make certain types of games more immersive.
+Not every game requires specialized peripherals. A [[Keyboard]] and [[Mouse]] are sufficient for most PC games, while a [[Controller]] may be more comfortable for games originally designed around consoles. More specialized devices such as [[Flight Stick|flight sticks]] and [[Virtual Reality|VR headsets]] are generally designed for particular genres or experiences. These devices are sometimes optional additions to a gaming computer, but they can significantly change how a player interacts with a game and make certain types of games more immersive.
 ## Related Categories
 Technically the peripherals used to play video games are considered hardware devices. [[Hardware Main Page|Hardware]]

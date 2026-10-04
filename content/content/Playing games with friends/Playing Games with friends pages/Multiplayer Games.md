@@ -9,7 +9,7 @@ date: 10/3/2026
 ---
 ## Playing With Friends
 
-Multiplayer games are an important part of [[Playing games with friends main page|playing games with friends]]. Platforms such as [[Steam]], [[Epic Games]], the [[EA Game Launcher|EA app]], and the [[Xbox App]] provide access to many multiplayer games and can include friends lists, invitations, and other social features. Multiplayer games can use [[Dedicated Servers]], [[Peer-to-Peer Multiplayer]], [[LAN Gaming]], or [[Cross-Platform Play]] depending on how the game was developed.
+Multiplayer games are an important part of [[Playing games with friends main page|playing games with friends]]. Platforms such as [[Steam]], [[Epic Games]], the [[EA Game Launcher|EA app]], and the [[Xbox App]] provide access to many multiplayer games and can include friends lists, invitations, and other social features. Multiplayer games can use [[Dedicated Servers]], [[Peer-to-Peer Multiplayer]], [[LAN Gaming]], or [[Cross-Platform Play]] depending on how the game was developed. It is also important to have additional [[Software Main Pages|software]]|software for communication if the game is underdeveloped, although optional I recommend [[Discord]].
 
 ---
 ## Examples
