@@ -5,7 +5,6 @@ date: 10/3/2026
 # Dedicated Servers
 
 ---
-
 A **dedicated server** is a computer or server that is used specifically to host a multiplayer game for other players. Instead of requiring one player's gaming computer to host the game while they are playing, the dedicated server operates separately and allows multiple players to connect to the same game session. This can provide a central location for storing the game world, processing multiplayer information, and managing the players connected to the server. Dedicated servers are commonly used in [[Multiplayer Games]] where players need access to a persistent or centrally managed game. They can also be useful when [[Playing games with friends main pages|playing games with friends]] because the person hosting the server does not always need to be actively playing for other players to connect.
 
 ---

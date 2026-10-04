@@ -77,6 +77,20 @@ Sony Interactive Entertainment. (n.d.). *PlayStation Plus games*. PlayStation.
 https://www.playstation.com/en-us/ps-plus/games/  
 Used on: [[PlayStation Plus]]
 
+Valve Corporation. (n.d.). *SteamCMD*. Valve Developer Community.  
+https://developer.valvesoftware.com/wiki/SteamCMD  
+Used on: [[Dedicated Servers]]
+
+Steam Community. (2024). *How to find your dedicated server*. Steam Community.  
+https://steamcommunity.com/sharedfiles/filedetails/?id=3147224494  
+Used on: [[Dedicated Servers]]
+
+Mojang Studios. (n.d.). *How to play Minecraft: Java Edition multiplayer*. Minecraft Help Center.  
+https://help.minecraft.net/hc/en-us/articles/4410316619533  
+Used on: [[LAN Gaming]]
+
+
+
 
 
 You can get back to the home page [[content/index|index]]
