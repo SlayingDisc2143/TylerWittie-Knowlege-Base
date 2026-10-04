@@ -10,15 +10,21 @@ This includes components such as the GPU, CPU, RAM, storage, motherboard, and ot
 > - Unknown
 ### Necessary Hardware 
 ---
-There are many different types of hardware that are required for an individual to run games and complicated computing tasks. Among the parts listed below there are very important things to consider when picking the parts for a PC. 
+A gaming computer requires several important hardware components to properly run games and other demanding computing tasks. Each component has a different role in the system, and factors such as performance, compatibility, power requirements, and budget should be considered when selecting parts for a PC.
 
-- [[CPU]] 
-- [[GPU]] 
-- [[Motherboard]]
-- [[Power Supply]] 
-- [[RAM]] 
-- [[Storage]]
+- [[CPU]] – Processes instructions and performs calculations required by games and software.
 
+- [[GPU]] – Renders graphics, images, and other visual elements displayed by games.
+
+- [[Motherboard]] – Connects the computer's major hardware components and allows them to communicate.
+
+- [[Power Supply]] – Provides electrical power to the components inside the computer.
+
+- [[RAM]] – Provides temporary memory for programs and data currently being used.
+
+- [[Storage]] – Stores the operating system, games, software, and other files.
+
+---
 ## Other Components
 ---
 ### Case 

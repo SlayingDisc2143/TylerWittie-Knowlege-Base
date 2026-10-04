@@ -89,8 +89,5 @@ Mojang Studios. (n.d.). *How to play Minecraft: Java Edition multiplayer*. Minec
 https://help.minecraft.net/hc/en-us/articles/4410316619533  
 Used on: [[LAN Gaming]]
 
-
-
-
-
+---
 You can get back to the home page [[content/index|index]]

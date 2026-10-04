@@ -5,7 +5,6 @@ date: 10/3/2026
 # Steam
 
 ---
-
 **Steam** is a digital game distribution platform developed by Valve. It allows PC players to purchase, download, install, update, and launch video games from a single application. Steam includes games from major publishers as well as independent developers and is one of the [[Game Launchers]] available for PC gaming. Steam also provides features beyond simply launching games. Players can maintain a friends list, communicate through text or voice chat, earn achievements, save supported game data to the cloud, and participate in the Steam Community. ([[References]])
 
 ---
